@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is gitpac3." 
+=======
+This is Experimental gitprac3. 
+>>>>>>> Experimentation
